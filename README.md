@@ -161,4 +161,4 @@ This beginner-friendly project gave me the opportunity to practice SQL basics wi
 
 
 
-Would you also like me to include the **`CREATE TABLE` + sample `INSERT` data** in the final write-up, so you can show it as a complete mini-project when you present it?
+
